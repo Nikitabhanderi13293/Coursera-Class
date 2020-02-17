@@ -3,106 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
 <title>Responsive Layout</title>
 <style>
 
-* {
-  box-sizing: border-box;
-  
-}
 
-h1 {
-  margin-bottom: 15px;
-  text-align:center;
-  
-}
-
-.p {
-  border: 2px solid black;
-  background-color: Grey;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Helvetica;
-  color: black;
-  margin-bottom:15px;  
-  padding:40px;
-  font-family:georgia;
-}
-
-.pstyle{ 
-  border: 1px solid black;
-  height:30px;
-  width:90px;
-  color:black;
-  text-align:center;
-  font-style:oblique;
-  font-family:Helvetica;
-}
-
-div#container{ 
-   position:relative;
-}
-.absolute{position:absolute;}
-.relative{position:relative;}
-
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
-}
-
-#p1{
-  position:absolute;
-  background-color:cyan; 
-  top:0;
-  right:25px;
- }
-
-#p2{
-  position:absolute;
-  background-color:#DEB887; 
-  right:25px;
- }
-
-#p3{
-  position:absolute;
-  background-color:pink; 
-  right:25px;
- }
-
-/********** Large devices only **********/
-@media (min-width: 992px) {
- .col-lg-4{
-    float: left;
-   }
-   .col-lg-4 {
-    width: 33.33%;
-  }
- }
-
-
-/********** Medium devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
-  .col-md-6,.col-md-12 {
-    float: left;   
-  }
-   .col-md-6 {
-    width: 50%;
-  }
-    .col-md-12 {
-    width: 100%;
-  }
-}
-
-@media (max-width: 767px) {
- .col-min-12 {
-    float: left;   
-  }
-    .col-min-12 {
-    width: 100%;
-  }
-}
 
 </style>
 </head>
