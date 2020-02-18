@@ -14,12 +14,7 @@ h1{
 .row{ 
   margin-bottom:15px;
 }
-.navbar-brand {
-  padding-top: 25px;
-}
-.navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
-  
+ 
 .row > div{
   border : 1px solid black;
   background-color:pink;
