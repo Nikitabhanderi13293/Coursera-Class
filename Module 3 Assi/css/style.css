@@ -88,6 +88,7 @@ section > p {
 }
   
   #nav-list {
+	  background-color:gray;
   margin-top: 10px;
 }
 #nav-list a {
@@ -99,19 +100,6 @@ section > p {
 }
 #nav-list a span {
   font-size: 1.8em;
-}
-
-#phone {
-  margin-top: 5px;
-}
-#phone a { /* Phone number */
-  text-align: right;
-  padding-bottom: 0;
-}
-#phone div { /* We Deliver */
-  color: #557c3e;
-  text-align: right;
-  padding-right: 15px;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
