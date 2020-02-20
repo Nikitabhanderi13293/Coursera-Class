@@ -11,7 +11,6 @@ h4{
 	background-color:gray;
 	color:white;
 }
-
 section {
 	background-color: pink;
 	padding-bottom:10px;
@@ -24,6 +23,7 @@ section {
 }
 
 #div1{
+	background-color:gray;
 	padding-bottom:20px;
 }
 
@@ -96,7 +96,7 @@ section > p {
   margin-top: 10px;
 }
 #nav-list a {
-  background-color:gray;
+ 
   color: white;
   text-align: center;
 }
