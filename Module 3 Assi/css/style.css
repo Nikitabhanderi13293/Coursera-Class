@@ -19,6 +19,10 @@ section {
 	overflow: auto;
 }
 
+#div1{
+	padding-bottom:20px;
+}
+
 #vadapav {	
 	text-align: center;
 	font-family: sans-serif;
