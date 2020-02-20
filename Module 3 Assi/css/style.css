@@ -96,7 +96,8 @@ section > p {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  background-color:gray;
+  color: white;
   text-align: center;
 }
 #nav-list a:hover {
