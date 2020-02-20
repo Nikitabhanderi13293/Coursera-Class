@@ -7,6 +7,10 @@ h1{
   color:black;
   font-family: serif;
 }
+h4{
+	background-color:gray;
+	color:white;
+}
 
 section {
 	background-color: pink;
