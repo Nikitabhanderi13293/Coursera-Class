@@ -49,9 +49,12 @@ section {
   margin-bottom:15px;
 }
  
+section > p {
+	padding:10px;
+}
 .row > div{
-  border : 1px solid black;
-  background-color:pink;
+  
+  
 }
 
 #navbar-header{
