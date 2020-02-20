@@ -19,8 +19,21 @@ section {
 	overflow: auto;
 }
 
-#vadapav {
-	
+#vadapav {	
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	background-color: gray;
+	color:black;
+}
+#Dosa {	
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	background-color: gray;
+	color:black;
+}
+#pizza {	
 	text-align: center;
 	font-family: sans-serif;
 	font-weight: bold;
