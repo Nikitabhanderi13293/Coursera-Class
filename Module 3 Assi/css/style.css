@@ -20,16 +20,11 @@ section {
 }
 
 #vadapav {
-	border: 1px solid black;
+	
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
 	font-family: sans-serif;
 	font-weight: bold;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: cyan;
+	background-color: gray;
 	color:black;
 }
 
