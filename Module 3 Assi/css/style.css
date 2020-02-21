@@ -20,7 +20,6 @@ h4{
 .sectionstyle {
 	background-color: pink;
 	padding:10px;
-	height: 700px;
 	font-family: georgia;
 	position: relative;
 	color:black;
@@ -35,23 +34,20 @@ h4{
 }
 
 #vadapav {	
-	text-align: center;
+	height:700px;
 	font-family: sans-serif;
-	font-weight: bold;
 	background-color: pink;
 	color:black;
 }
 #Dosa {	
-	text-align: center;
+	height:700px;
 	font-family: sans-serif;
-	font-weight: bold;
 	background-color: pink;
 	color:black;
 }
 #pizza {	
-	text-align: center;
+	height:700px;
 	font-family: sans-serif;
-	font-weight: bold;
 	background-color: pink;
 	color:black;
 }
