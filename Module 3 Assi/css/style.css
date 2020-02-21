@@ -75,6 +75,7 @@ section > p {
 
 #header-nav{
   background-color:yellow;
+	height:50px;
   border-radius : 0;
   border : 0;
 }
