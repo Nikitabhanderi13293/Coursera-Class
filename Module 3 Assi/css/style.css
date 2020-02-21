@@ -71,11 +71,12 @@ section > p {
 
 #navbar-header{
   width:100%;
-	height:50%;
 }
 
 #header-nav{
-  background-color:yellow;
+  background-color:green;
+	height:30%;
+	color:white
   border-radius : 0;
   border : 0;
 }
