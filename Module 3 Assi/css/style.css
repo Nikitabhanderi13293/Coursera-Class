@@ -11,6 +11,12 @@ h4{
 	background-color:gray;
 	color:white;
 }
+#astyle{
+	color:black;
+	font-family: 'Abril Fatface', cursive;
+    	font-weight: bolder;
+	font-size:30px;
+}
 .sectionstyle {
 	background-color: pink;
 	padding:10px;
