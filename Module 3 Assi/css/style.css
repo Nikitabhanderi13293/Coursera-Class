@@ -74,9 +74,7 @@ section > p {
 }
 
 #header-nav{
-  background-color:green;
-	height:30%;
-	color:white
+  background-color:yellow;
   border-radius : 0;
   border : 0;
 }
