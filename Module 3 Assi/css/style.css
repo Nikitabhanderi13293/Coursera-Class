@@ -23,7 +23,10 @@ section {
 }
 
 #div1{
-	padding:20px;
+	padding:30px;
+}
+ul{
+	background-color:gray;
 }
 
 #vadapav {	
@@ -54,7 +57,7 @@ section {
 }
 
 .row{ 
-	padding:10px;
+	
   margin-bottom:15px;
 }
  
