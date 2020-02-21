@@ -98,8 +98,11 @@ section > p {
 	  background-color:gray;
   margin-top: 10px;
 }
+	li{
+	border:1px solid white;
+	}
 #nav-list a {
-  border: 1px solid white;
+  
   color: white;
   text-align: center;
 }
