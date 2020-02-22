@@ -18,8 +18,8 @@ var speakWord = "Good Bye";
 // See Lecture 52, part 2
 (function (window) {
   var byeSpeaker={};
-  byeSpeaker.speak = function speak(name) {
-  console.log(speakWord + " " + name);
+  byeSpeaker.name = function speak(name) {
+  console.log(speakWord + " " + byeSpeaker.name);
   }
   window.byeSpeaker= byeSpeaker;
 })();
