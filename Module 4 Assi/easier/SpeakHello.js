@@ -16,10 +16,10 @@ var speakWord = "Hello";
  
 (function (window) {
   var helloSpeaker={};
-  helloSpeaker.name = function speak(name){
-  console.log(speakWord + " " + helloSpeaker.name);
+  helloSpeaker.speak = function (name) {
+  console.log(speakWord + " " + name);
   }
- window.helloSpeaker= helloSpeaker;
+  window.byeSpeaker= helloSpeaker;
 })(window);
 
 // STEP 5: Expose the 'helloSpeaker' object to the global scope. Name it
